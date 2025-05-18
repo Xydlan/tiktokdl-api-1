@@ -6,7 +6,7 @@ This is a server-side API for downloading TikTok videos. It allows users to down
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/BOTCAHX/tiktokdl-api
+   git clone https://github.com/Xydlan/tiktokdl-api.git
    ```
 2. **Navigate into the project directory:**
    ```bash
